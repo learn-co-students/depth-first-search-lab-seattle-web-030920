@@ -8,12 +8,12 @@ let edges = [
 ]
 
 let vertices = [
-  {name: '34th&6th', discovered: null},
-  {name: '23rd&6th', discovered: null},
-  {name: '14th&6th', discovered: null},
-  {name: '28th&Bwy', discovered: null},
+  	{name: '34th&6th', discovered: null},
+  	{name: '23rd&6th', discovered: null},
+	{name: '14th&6th', discovered: null},
+  	{name: '28th&Bwy', discovered: null},
 	{name: '23rd&Bwy', discovered: null},
-  {name: '14th&Lex', discovered: null},
+  	{name: '14th&Lex', discovered: null},
 	{name: '23rd&Lex', discovered: null}
 ]
 
